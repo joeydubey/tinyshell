@@ -13,11 +13,15 @@ The -sbu flag (Sort by Usage) sorts the history commands by execution duration (
 
 **exit** - Exits from tinyshell. Basically, calls the exit(0) function.
 
+
 **The input formats for the built-in commands are:**
 
 [optionalSpace]exit[optionalSpace]
+
 [optionalSpace]history[optionalSpace]
+
 [optionalSpace]history[oneOrMoreSpace][-sbu][oneOrMoreSpace]
+
 
 **Executing non-built-in commands:** 
 
