@@ -5,7 +5,7 @@
 A very basic Unix like shell made as part of a project for the course COMP2123 @ the University of Hong Kong.
 
 
-## USAGE: ##
+## Usage: ##
 
 **history** - Displays an ordered list of all input commands that tinyshell received in a session. In
 this project, by default, the history command displays the 5 most recent commands (latest command shows first; if less than 5 commands have been executed, it displays them all).
