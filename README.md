@@ -11,7 +11,7 @@ A very basic Unix like shell made as part of a project for the course COMP2123 @
 this project, by default, the history command displays the 5 most recent commands (latest command shows first; if less than 5 commands have been executed, it displays them all).
 The -sbu flag (Sort by Usage) sorts the history commands by execution duration (end time – start time) in descending order. 
 
-**exit** - Exits from tinyshell. Basically, calls the exit(0) function.
+**exit** - Exits from tinyshell by performing the exit(0) system call.
 
 
 **The input formats for the built-in commands are:**
